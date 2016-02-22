@@ -1,0 +1,19 @@
+{
+  "name": "firebase101",
+  "version": "1.0.0",
+  "description": "A repo to show some of the features of firebase",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocalvet/firebase101.git"
+  },
+  "author": "Ovidio R. Calvet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocalvet/firebase101/issues"
+  },
+  "homepage": "https://github.com/ocalvet/firebase101#readme"
+}
